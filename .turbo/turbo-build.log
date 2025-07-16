@@ -1,5 +1,5 @@
 
-> medplum-questionnaire-hooks@4.3.4 build
+> medplum-questionnaire-hooks@4.3.5 build
 > tsc -b && vite build
 
 [36mvite v6.3.5 [32mbuilding for production...[36m[39m
