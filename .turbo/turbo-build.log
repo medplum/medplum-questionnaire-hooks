@@ -1,5 +1,5 @@
 
-> medplum-questionnaire-hooks@5.0.14 build
+> medplum-questionnaire-hooks@5.0.15 build
 > tsc -b && vite build
 
 [36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
@@ -7,6 +7,6 @@ transforming...
 [32m✓[39m 31 modules transformed.
 rendering chunks...
 computing gzip size...
-[2mdist/[22m[32mindex.html                [39m[1m[2m  0.34 kB[22m[1m[22m[2m │ gzip:  0.24 kB[22m
-[2mdist/[22m[2massets/[22m[36mindex-bxst_d7o.js  [39m[1m[2m333.00 kB[22m[1m[22m[2m │ gzip: 96.47 kB[22m
-[32m✓ built in 8.57s[39m
+[2mdist/[22m[32mindex.html                [39m[1m[2m  0.34 kB[22m[1m[22m[2m │ gzip:  0.25 kB[22m
+[2mdist/[22m[2massets/[22m[36mindex-C8YflTec.js  [39m[1m[2m333.90 kB[22m[1m[22m[2m │ gzip: 96.66 kB[22m
+[32m✓ built in 7.07s[39m
