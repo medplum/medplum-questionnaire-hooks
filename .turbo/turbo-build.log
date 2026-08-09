@@ -1,5 +1,5 @@
 
-> medplum-questionnaire-hooks@5.1.28 build
+> medplum-questionnaire-hooks@5.1.29 build
 > tsc -b && vite build
 
 [33m(!) Your Vite config uses features that are unsupported by `configLoader: 'native'`, which is planned to become the default in a future major version of Vite:
@@ -10,6 +10,6 @@ Set `VITE_CONFIG_NATIVE_IGNORE_WARNING=true` to suppress this warning.[39m
 rendering chunks...
 computing gzip size...
 dist/index.html                  0.34 kB │ gzip:  0.24 kB
-dist/assets/index-Cg-f1Sva.js  341.03 kB │ gzip: 98.79 kB
+dist/assets/index-BziMLwKf.js  341.22 kB │ gzip: 98.84 kB
 
-[32m✓ built in 986ms[39m
+[32m✓ built in 1.04s[39m
