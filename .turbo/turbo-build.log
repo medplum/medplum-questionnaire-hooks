@@ -1,13 +1,13 @@
 
-> medplum-questionnaire-hooks@5.2.9 build
+> medplum-questionnaire-hooks@5.2.10 build
 > tsc -b && vite build
 
-[36mvite v8.3.4 [32mbuilding client environment for production...[36m[39m
+[36mvite v8.3.5 [32mbuilding client environment for production...[36m[39m
 transforming...
 ✓ 18 modules transformed.
 rendering chunks...
 computing gzip size...
 dist/index.html                  0.34 kB │ gzip:   0.24 kB
-dist/assets/index-vpzQr2Va.js  370.89 kB │ gzip: 107.70 kB
+dist/assets/index-NLdkO6O1.js  370.86 kB │ gzip: 107.70 kB
 
-[32m✓ built in 1.22s[39m
+[32m✓ built in 1.19s[39m
